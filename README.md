@@ -1,4 +1,4 @@
-# Sales-insights
+# Sales-insights Power bi Project
 
 
 Purpose :
