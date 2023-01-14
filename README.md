@@ -13,7 +13,8 @@ How I have made a Data Analysis Pipeline.
 3- Connected the data into Power Bi and  made the nececcesary changes in Power Query
 4- Done the Visualization 
 
-Dashboard's :- 
+Dashboard's:
+
 1- Sales Insight
 
 2- Profit Analysis
