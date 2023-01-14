@@ -1,5 +1,4 @@
 # Sales-insights Power bi Project
-this project is from @codebasics youtube channel
 
 Purpose :
 
